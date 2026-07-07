@@ -152,10 +152,6 @@ Accepts a CSV file and streams extraction progress via SSE.
 | Validation | Zod |
 | Tests | Jest + ts-jest |
 
-## 📝 Position Applied For
-
-**Software Developer Intern**
-
 ---
 
 Built with ❤️ for the GrowEasy assignment.
