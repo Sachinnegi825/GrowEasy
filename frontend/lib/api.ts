@@ -80,7 +80,7 @@ export async function streamImport(
  * always saves the file with the correct filename.
  */
 export async function exportCsvFromServer(
-  records: Record<string, unknown>[],
+  records: any[],
   filename: string
 ): Promise<void> {
   const response = await fetch(`${API_BASE}/export`, {
